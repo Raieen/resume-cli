@@ -30,7 +30,7 @@
     "jsonresume-theme-modern": "0.0.18",
     "node-static": "~0.7.7",
     "opn": "5.4.0",
-    "puppeteer": "^1.0.0",
+    "puppeteer": "^2.1.1",
     "read": "~1.0.7",
     "resume-schema": "0.0.18",
     "resume-to-html": "latest",
